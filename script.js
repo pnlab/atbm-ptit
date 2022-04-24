@@ -1,1 +1,1 @@
-alert("Trang này bị hack bơi ???")
+console.log("PTIT love")
